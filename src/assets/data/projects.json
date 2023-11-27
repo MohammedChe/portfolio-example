@@ -20,6 +20,22 @@
         "demo": true
     },
     {
+        "slug": "laravel-app",
+        "title": "Laravel Bookstore",
+        "description": "This is a Laravel App I made. I found this project interesting, I learned a lot",
+        "images": [
+            {
+                "caption": "Screenshot of the code",
+                "path": "https://picsum.photos/id/1/200/300"
+            }
+        ],
+        "date": "2023",
+        "tags": ["PHP", "CSS", "HTML"],
+        "website": "http://google.com",
+        "github": "http://github.com",
+        "demo": false
+    },
+    {
         "slug": "giphy-app",
         "title": "Giphy App",
         "description": "I found this project very interesting. I learned about APIs.",
@@ -31,6 +47,7 @@
         ],
         "date": "2023",
         "tags": ["JavaScript", "React", "HTML", "Front-End", "Rest Client", "API"],
-        "github": "http://github.com"
+        "github": "http://github.com",
+        "demo": true
     }
 ]

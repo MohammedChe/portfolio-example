@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_portfolio=self.webpackChunkreact_portfolio||[]).push([[997],{997:(e,t,o)=>{o.r(t),o.d(t,{default:()=>r});var s=o(184);const r=()=>(0,s.jsx)("h1",{children:"This is the todo app"})}}]);
+//# sourceMappingURL=997.5dfc62eb.chunk.js.map
